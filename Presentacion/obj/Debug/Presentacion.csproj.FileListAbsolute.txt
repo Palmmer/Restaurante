@@ -1,0 +1,38 @@
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Presentacion\bin\Debug\Negocio.dll
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Presentacion\bin\Debug\Datos.dll
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Presentacion\bin\Debug\Datos.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Presentacion\obj\Debug\Presentacion.Principal.resources
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Presentacion\bin\Debug\Comun.dll
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Presentacion\bin\Debug\Comun.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Presentacion\bin\Debug\itextsharp.dll
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Presentacion\bin\Debug\itextsharp.xml
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Presentacion\bin\Debug\Comun.dll
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Presentacion\bin\Debug\Negocio.dll
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Presentacion\bin\Debug\Datos.dll
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Presentacion\bin\Debug\Comun.pdb
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Presentacion\bin\Debug\itextsharp.xml
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Presentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Presentacion\bin\Debug\Datos.pdb
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Presentacion\obj\Debug\Presentacion.Principal.resources
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Presentacion\obj\Debug\Presentacion.pdb

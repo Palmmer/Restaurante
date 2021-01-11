@@ -1,0 +1,19 @@
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Negocio\bin\Debug\Negocio.dll
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Negocio\bin\Debug\Negocio.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Negocio\bin\Debug\Datos.dll
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Negocio\bin\Debug\Datos.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Negocio\obj\Debug\Negocio.dll
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Negocio\obj\Debug\Negocio.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Negocio\bin\Debug\Comun.dll
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\RestauranteV1\Negocio\bin\Debug\Comun.pdb
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Negocio\bin\Debug\Negocio.dll
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Negocio\bin\Debug\Negocio.pdb
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Negocio\bin\Debug\Comun.dll
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Negocio\bin\Debug\Datos.dll
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Negocio\bin\Debug\Comun.pdb
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Negocio\bin\Debug\Datos.pdb
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Negocio\obj\Debug\Negocio.dll
+C:\Users\alex_\OneDrive\Documentos\RestauranteV1\Negocio\obj\Debug\Negocio.pdb
